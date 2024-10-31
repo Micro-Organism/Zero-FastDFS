@@ -1,0 +1,7 @@
+spring:
+    application:
+        name: zero-fast-dfs
+    profiles:
+        active: dev
+server:
+    port: 8080
